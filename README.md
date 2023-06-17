@@ -61,6 +61,7 @@ Et c'est enfin le moment de démarrer notre serveur
 `mix phx.server`
 
 Rendez-vous en http://localhost:4000/posts
+<img width="1417" alt="Capture d’écran 2023-06-17 à 21 35 12" src="https://github.com/nseaSeb/phoenixblogsample1/assets/43780939/3fe34884-ba21-436b-b512-deb82f0b7950">
 
 
 
